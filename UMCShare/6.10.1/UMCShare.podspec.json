@@ -19,9 +19,6 @@
   },
   "requires_arc": true,
   "dependencies": {
-    "UMCommon": [
-
-    ]
   },
   "subspecs": [
     {
